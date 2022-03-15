@@ -1,0 +1,2 @@
+# Szakdolgozat_HU
+IOT
